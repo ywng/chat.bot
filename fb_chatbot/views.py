@@ -7,7 +7,7 @@ from django.http.response import HttpResponse
 from django.views.decorators.csrf import csrf_exempt
 from django.utils.decorators import method_decorator
 
-PAGE_ACCESS_TOKEN = "EAACpPriCUNsBAO8cFCaRMIiul4QSfHJzWCDD2DMZBRXDebaZCAzNxHygw6NvAnR98kyR7qE8n4ZA33RszC37fdeepdTBqkEXK4FqkRixMtjZAGO6Qq7CmdQUYUw0pNxhBULjc4CNCim56FuVTX3ycykC8PtTjYCO9tT8MdiEZCwZDZD"
+PAGE_ACCESS_TOKEN = "EAACpPriCUNsBAEQfWZALw4LPNNyZBFdXzqKyJymb4dlZCCwUstSUC4DY5HOpapq65hP6i1orQOTgwaNZAOZBZBKeUYtnRLfkkoOreJpPnrPdwZAnboLIvffnx9iaAop9TcnFGh6JvX40wg0ZCEsz0LY8eMtNmOcPrzZAgI5YegxYXYAZDZD"
 VERIFY_TOKEN = "2318934571"
 
 jokes = { 'stupid': ["""Yo' Mama is so stupid, she needs a recipe to make ice cubes.""", 
