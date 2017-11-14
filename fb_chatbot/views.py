@@ -10,12 +10,12 @@ from django.utils.decorators import method_decorator
 PAGE_ACCESS_TOKEN = "EAACpPriCUNsBAEQfWZALw4LPNNyZBFdXzqKyJymb4dlZCCwUstSUC4DY5HOpapq65hP6i1orQOTgwaNZAOZBZBKeUYtnRLfkkoOreJpPnrPdwZAnboLIvffnx9iaAop9TcnFGh6JvX40wg0ZCEsz0LY8eMtNmOcPrzZAgI5YegxYXYAZDZD"
 VERIFY_TOKEN = "2318934571"
 
-jokes = { 'stupid': ["""Yo' Mama is so stupid, she needs a recipe to make ice cubes.""", 
-                     """Yo' Mama is so stupid, she thinks DNA is the National Dyslexics Association."""], 
-         'fat':      ["""Yo' Mama is so fat, when she goes to a restaurant, instead of a menu, she gets an estimate.""", 
-                      """ Yo' Mama is so fat, when the cops see her on a street corner, they yell, "Hey you guys, break it up!" """], 
-         'dumb': ["""Yo' Mama is so dumb, when God was giving out brains, she thought they were milkshakes and asked for extra thick.""", 
-                  """Yo' Mama is so dumb, she locked her keys inside her motorcycle."""] }
+jokes = { 'stupid': ["Yo' Mama is so stupid, she needs a recipe to make ice cubes.", 
+                     "Yo' Mama is so stupid, she thinks DNA is the National Dyslexics Association."], 
+         'fat':      ["Yo' Mama is so fat, when she goes to a restaurant, instead of a menu, she gets an estimate.", 
+                      "Yo' Mama is so fat, when the cops see her on a street corner, they yell, Hey you guys, break it up!" ], 
+         'dumb': ["Yo' Mama is so dumb, when God was giving out brains, she thought they were milkshakes and asked for extra thick.", 
+                  "Yo' Mama is so dumb, she locked her keys inside her motorcycle."] }
 
 
 # Helper function
